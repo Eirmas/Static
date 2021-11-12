@@ -1,14 +1,1 @@
-{
-  "wows": {
-    "index": "",
-    "disabled": false
-  },
-  "wot": {
-    "index": "",
-    "disabled": false
-  },
-  "csgo": {
-    "index": "/csgo/data.json",
-    "disabled": true
-  }
-}
+{"wot":{"maps":"","entities":"","icons":"","disabled":true},"wows":{"maps":"","entities":"","icons":"","disabled":true},"csgo":{"maps":"","entities":"","icons":"","disabled":true},"r6":{"maps":"https://maps.gametactic.eu/r6/maps/data.json","entities":"https://maps.gametactic.eu/r6/entities/data.json","icons":"https://maps.gametactic.eu/r6/entities/data.json","disabled":false}}
